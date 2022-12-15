@@ -1,0 +1,21 @@
+{
+  "name": "@asobirov/api-lib",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "asobirov",
+    "url": "https://asobirov.uz",
+    "email": "me@asobirov.uz"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.12.1"
+  }
+}
